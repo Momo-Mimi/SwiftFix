@@ -1,0 +1,11 @@
+com\schoolproject\SwiftJob\BusinessRuleException.class
+com\schoolproject\SwiftJob\SecurityConfig.class
+com\schoolproject\SwiftJob\SwiftJobApplication.class
+com\schoolproject\SwiftJob\RepairJobRepository.class
+com\schoolproject\SwiftJob\GlobalException.class
+com\schoolproject\SwiftJob\RepairJobService.class
+com\schoolproject\SwiftJob\RepairJobController.class
+com\schoolproject\SwiftJob\JobNotFoundException.class
+com\schoolproject\SwiftJob\RepairStatus.class
+com\schoolproject\SwiftJob\RepairJob.class
+com\schoolproject\SwiftJob\HealthController.class
